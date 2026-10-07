@@ -1,2 +1,3 @@
 ## Estado
-Mejoras pendientes: vencimiento de esterilidad y reprocesamiento de lotes.
+Mejoras pendientes: reprocesamiento de lotes. 
+Vencimiento de esterilidad: implementado.
