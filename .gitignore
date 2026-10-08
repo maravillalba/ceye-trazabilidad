@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secretos (JWT, contraseña de PostgreSQL)
+.env
+
+# Node / React
+node_modules/
+build/
+dist/
